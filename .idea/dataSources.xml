@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="fastapi.app" uuid="44e1b91b-1098-4928-92d2-a22d0c8252a3">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\Aleksandr\Dev\Edu\FastAPIProjects\LearnProject\fastapi.app.db</jdbc-url>
+    </data-source>
+  </component>
+</project>

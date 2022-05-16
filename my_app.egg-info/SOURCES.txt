@@ -1,0 +1,8 @@
+setup.py
+app/main.py
+my_app.egg-info/PKG-INFO
+my_app.egg-info/SOURCES.txt
+my_app.egg-info/dependency_links.txt
+my_app.egg-info/requires.txt
+my_app.egg-info/top_level.txt
+scripts/create_db.py
